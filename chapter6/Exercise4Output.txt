@@ -1,0 +1,6 @@
+Exercise 6.4 prints out the folliwing:
+	true
+	true
+	ping!
+	ping!
+	
